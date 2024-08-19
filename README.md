@@ -1,16 +1,2 @@
-# profile_settings_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/f4752465-d240-4124-94ad-6d224a354eb0" width="400" />
+<img src="https://github.com/user-attachments/assets/39b9e80c-e22f-46e5-9d9c-3d7c1177952f" width="400" />
